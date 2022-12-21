@@ -1,7 +1,7 @@
-
+[![MasterHead](https://th.bing.com/th/id/R.8a102b4d742b3eeeb435ed3dd9effd08?rik=OvbIU96%2fQlvJnA&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Kennedy Kachi</h1>
 <h3 align="center">A passionate Software Engineering trainee from Nigeria</h3>
-<img align="right" alt="Codind" with="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Codind" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedykachi&label=Profile%20views&color=0e75b6&style=flat" alt="kennedykachi" /> </p>
 
