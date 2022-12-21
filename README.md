@@ -1,20 +1,4 @@
-### Hi there 👋
 
-<!--
-**Kennedykachi/Kennedykachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://www.bing.com/images/search?view=detailV2&ccid=FK5TuNES&id=334D642A4703F9BED128767F1E289ED600EAAAB9&thid=OIP.FK5TuNES4Csi0PK_9_T3qAHaEd&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.14ae53b8d112e02b22d0f2bff7f4f7a8%3frik%3duarqANaeKB5%252fdg%26riu%3dhttp%253a%252f%252fi.imgur.com%252fYr32yur.gif%26ehk%3dkzLZtjbPT80GtQ%252bGrH5dL%252fwmblkB2dpPg8lqELfiN3Q%253d%26risl%3d1%26pid%3dImgRaw%26r%3d0&exph=301&expw=500&q=banner+gif+image+coding&simid=608039066098432860&FORM=IRPRST&ck=F8048F524E532CDE0B8E51B8E567FBF9&selectedIndex=1&ajaxhist=0&ajaxserp=0
 <h1 align="center">Hi 👋, I'm Kennedy Kachi</h1>
 <h3 align="center">A passionate Software Engineering trainee from Nigeria</h3>
 
@@ -31,7 +15,6 @@ https://www.bing.com/images/search?view=detailV2&ccid=FK5TuNES&id=334D642A4703F9
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-https://www.bing.com/images/search?view=detailV2&ccid=f%2BbVQtSa&id=9DF722D1E96B926E46DDC412F340115C6B3111C6&thid=OIP.f-bVQtSaP0P9KGXEMiXj5wHaEK&mediaurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FI6Usd95ab0I%2Fmaxresdefault.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7fe6d542d49a3f43fd2865c43225e3e7%3Frik%3DxhExa1wRQPMSxA%26pid%3DImgRaw%26r%3D0&exph=720&expw=1280&q=Animated+Coder&simid=608014434453749886&form=IRPRST&ck=889EC11EA5D65A8AC6162F4473020128&selectedindex=4&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_30fuPl3x*cp_569706556E86220C4FA05E2BABB96999*mid_BF17A27DA4A7A93B0EBA069B35CC920683C184CA*simid_608031532725502330*thid_OIP.30fuPl3x9KvMB2ZYW0k7owHaEK&vt=0&sim=11&iss=VSI
 <p align="left">
 <a href="https://twitter.com/kennedykachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennedykachi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kennedy-onyekachi-455a77110?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqk%2f8wcrbsh2cersnzjez9q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kennedy-onyekachi-455a77110?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqk%2f8wcrbsh2cersnzjez9q%3d%3d" height="30" width="40" /></a>
