@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Kennedy Onyekachi Isiguzoro</h1>
 <h3 align="center">A Pharmaceutical Technologist, and Software Engineer in training</h3>
-<img align="right" alt="Codind" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="Codind" width="400" src="https://camo.githubusercontent.com/badcc819734aa1adbb9fbca7d9ddee8edf2d0b1654e62e67fbd1ad141203365c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedykachi&label=Profile%20views&color=0e75b6&style=flat" alt="kennedykachi" /> </p>
 
