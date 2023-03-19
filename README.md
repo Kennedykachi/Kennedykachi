@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/kennedykachi" target="_blank"><img src="https://img.shields.io/twitter/follow/kennedykachi?logo=twitter&style=for-the-badge" alt="kennedykachi"/></a></p>
 
 - 🥏 Ask me about: **HTML, CSS**
-- 
+
 - 🌱 I’m currently learning: **C, JavaScript, Python, PHP, Ruby**
 
 - 📫 How to reach me: **kennedyonyekachi@gmail.com**
