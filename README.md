@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedykachi&label=Profile%20views&color=0e75b6&style=flat" alt="kennedykachi"/></p>
 
-<p align="left"> <a href="https://twitter.com/kennedykachi" target="_blank"><img src="https://img.shields.io/twitter/follow/kennedykachi?logo=twitter&style=for-the-badge" alt="kennedykachi"/></a></p>
+<p align="left"> <a href="https://twitter.com/kennedykachi" target="_blank"><img src="https://img.shields.io/twitter/follow/kennedykachi?logo=twitter&style=for-the-badge" alt="kennedykachi" /></a></p>
+
 
 - 🥏 Ask me about: **HTML, CSS**
 
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kennedykachi" target="_blank"><img align="center" src="rahuldkjain" alt="kennedykachi" height="30" width="40"/></a>
+<a href="https://twitter.com/kennedykachi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennedykachi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kennedy-onyekachi-455a77110" lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqk%2f8wcrbsh2cersnzjez9q%3d%3d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kennedy-onyekachi-455a77110?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqk%2f8wcrbsh2cersnzjez9q%3d%3d" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20675618/kennedy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kennedy" height="30" width="40"/></a>
 <a href="https://fb.com/kennyhoussy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kennyhoussy" height="30" width="40"/></a>
