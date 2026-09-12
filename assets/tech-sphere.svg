@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Kennedy Onyekachi Isiguzoro — Technology Learning Sphere">
   <defs>
     <radialGradient id="ts-halo" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0"   stop-color="#5cffd9" stop-opacity="0.3"/>
+      <stop offset="0" stop-color="#5cffd9" stop-opacity="0.3"/>
       <stop offset="0.6" stop-color="#5cffd9" stop-opacity="0.05"/>
-      <stop offset="1"   stop-color="#5cffd9" stop-opacity="0"/>
+      <stop offset="1" stop-color="#5cffd9" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="ts-sphere" cx="0.35" cy="0.3" r="0.7">
-      <stop offset="0"   stop-color="#1a2a52"/>
+      <stop offset="0" stop-color="#1a2a52"/>
       <stop offset="0.6" stop-color="#0a0f24"/>
-      <stop offset="1"   stop-color="#040614"/>
+      <stop offset="1" stop-color="#040614"/>
     </radialGradient>
 
     <radialGradient id="ts-shine" cx="0.3" cy="0.25" r="0.3">
@@ -57,11 +57,11 @@
     <!-- Name -->
     <text y="40"
           font-family="'Fraunces', 'Playfair Display', Georgia, serif"
-          font-size="56"
+          font-size="38"
           font-weight="500"
           font-style="italic"
           fill="#e8edff"
-          letter-spacing="-1.5">
+          letter-spacing="-1.2">
       Kennedy Onyekachi Isiguzoro
     </text>
 
@@ -77,7 +77,7 @@
           stroke="#1a2238"
           stroke-width="0.6"/>
 
-    <!-- Personalized bio -->
+    <!-- Four-line personalized bio -->
     <text y="128"
           font-family="'JetBrains Mono', monospace"
           font-size="11"
@@ -259,23 +259,70 @@
         <text x="-10"
               y="4"
               text-anchor="end"
-              fill="#5cffd9">
-          django
-        </text>
+              fill="#5cffd9">django</text>
       </g>
 
       <!-- EXPLORING -->
       <g transform="translate(39,-83)">
         <circle r="3" fill="#a78bfa"/>
-        <text x="10" y="4" fill="#a78bfa">
-          postgresql
-        </text>
+        <text x="10" y="4" fill="#a78bfa">postgresql</text>
       </g>
 
       <g transform="translate(18,26)" opacity="0.7">
         <text x="0"
               y="0"
               font-style="italic"
-              fill="#fef3c7">
-          figma
-        </text>
+              fill="#fef3c7">figma</text>
+      </g>
+
+    </g>
+
+    <!-- Center node -->
+    <circle r="5" fill="#fef3c7">
+      <animate
+        attributeName="r"
+        values="5;7;5"
+        dur="2.4s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <circle r="14"
+            fill="none"
+            stroke="#fef3c7"
+            stroke-width="0.6"
+            opacity="0.5">
+      <animate
+        attributeName="r"
+        values="14;22;14"
+        dur="2.4s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="0.5;0;0.5"
+        dur="2.4s"
+        repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- Bottom register -->
+  <g transform="translate(60,396)"
+     font-family="'JetBrains Mono', monospace"
+     font-size="10"
+     letter-spacing="3"
+     fill="#5a648b">
+    <text>KENNEDY · @KENNEDYKACHI · KENNEDYONYEKACHI@GMAIL.COM</text>
+  </g>
+
+  <text x="1140"
+        y="396"
+        text-anchor="end"
+        font-family="'JetBrains Mono', monospace"
+        font-size="10"
+        fill="#a78bfa"
+        letter-spacing="3">
+    ↻ ROTATION T = 22s
+  </text>
+
+</svg>
